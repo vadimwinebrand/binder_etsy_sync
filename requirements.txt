@@ -1,3 +1,6 @@
 intuit-oauth
 python-quickbooks
 ipywidgets
+reportlab
+pandas
+pydrive
