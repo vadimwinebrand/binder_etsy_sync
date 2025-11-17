@@ -1,0 +1,3 @@
+intuit-oauth
+python-quickbooks
+ipywidgets
