@@ -3,4 +3,4 @@ python-quickbooks
 ipywidgets
 reportlab
 pandas
-pydrive
+jupyterlab_vim
